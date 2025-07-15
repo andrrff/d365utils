@@ -90,6 +90,8 @@ Converts hardcoded text, finds orphan labels, and displays the results.
     -FindMissingLabels `
     -ShowInTerminal
 ```
+<img width="1915" height="1036" alt="image" src="https://github.com/user-attachments/assets/fbe167be-e56a-4a4d-ba4c-ec80f68d5a12" />
+<img width="1908" height="1015" alt="image" src="https://github.com/user-attachments/assets/d6903436-a2dd-4392-83ad-2668b034dbcb" />
 
 ## Workflows (Use Cases)
 
